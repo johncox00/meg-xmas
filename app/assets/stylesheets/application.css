@@ -13,8 +13,12 @@
  */
 .mid{
   text-align: center;
+
 }
 
 body {
   padding-top: 10px;
+  background: url('christmas.jpg')
 }
+
+
