@@ -3,6 +3,8 @@ MegXmas::Application.routes.draw do
   root :to => 'home#index'
   match '/bad_news' => 'home#bad_news'
   match '/yay' => 'home#yay'
+  match '/yay2' => 'home#yay2'
+  match '/silent' => 'home#silent'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
