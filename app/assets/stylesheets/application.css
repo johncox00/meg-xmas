@@ -21,4 +21,10 @@ body {
   background: url('christmas.jpg')
 }
 
+p {
+  text-shadow: 1px 1px 1px #000;
+}
 
+h2 {
+  text-shadow: 1px 1px 1px #000;
+}
